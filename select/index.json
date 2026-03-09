@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "21世紀少女",
+  "base_artist": "あたまのなかは8ビット",
+  "createdAt": "2026-03-09T07:32:23.900120Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "21世紀少女",
+      "artist": "あたまのなかは8ビット",
+      "has_synced": false,
+      "path": "select/pl_01_21世紀少女_あたまのなかは8ビット.txt"
+    }
+  ]
+}
